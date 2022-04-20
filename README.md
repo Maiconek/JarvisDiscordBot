@@ -2,7 +2,7 @@
 
 Simple bot made with Python and with use of discord.py library.
 
-# Commands
+# Commands (as for version 1.0)
 !help - Jarvis shows the list of available commands.
 
 !whoami - quick introduction
