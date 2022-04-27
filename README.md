@@ -20,6 +20,6 @@ Simple bot made with Python and with use of discord.py library.
 # Changelog
 
 ## Version 1.1
---- added "show todays date" option
---- added humidity and pressure to the weather command
---- deleted some unnecessary code
+- added "show todays date" option
+- added humidity and pressure to the weather command
+- deleted some unnecessary code
